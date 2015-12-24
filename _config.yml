@@ -1,0 +1,28 @@
+name: The Matt Thompson Foundation
+favicon: null
+layout_spectrum: 0.8423839346505702
+typography_spectrum: 0.8986749039031565
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5656667305156589
+  lightness: 0.5296054750215262
+  saturation: 0.5759971980005503
+  rhythmicContrast: 0.19045448675751686
+purpose: []
